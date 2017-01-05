@@ -9,3 +9,5 @@ public class main {
 
     GigaSpace gigaSpace = new GigaSpaceConfigurer(new EmbeddedSpaceConfigurer("mySpace")).gigaSpace();
 }
+
+//
